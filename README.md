@@ -22,6 +22,9 @@ For this, I used the Nintendo Game Dataset which has values which includes:
 
 Link: https://www.kaggle.com/datasets/codefantasy/list-of-best-selling-nintendo-games
 
+I have also made a snapshot of my current findings on this database. 
+https://github.com/eher78/gameDataAnalysis/blob/main/gamesAnalysis.ipynb
+
 Note that this is for my own exploration and interest and that I could use any feedback and suggestions on where to take this next.
 
 Thanks!
